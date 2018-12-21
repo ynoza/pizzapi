@@ -21,7 +21,7 @@ Setup
 Description
 -----------
 
-This is a Python wrapper for the Dominos Pizza API.
+This is an Order Bot for the Dominos Pizza API.
 
 It's a port of `the pizzapi node.js module <https://github.com/RIAEvangelist/node-dominos-pizza-api>`_ written by `RIAEvangelist <https://github.com/RIAEvangelist>`_.
 
