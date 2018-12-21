@@ -1,4 +1,4 @@
-pizzapy
+PizzaBot
 =======
 
 Disclaimer
