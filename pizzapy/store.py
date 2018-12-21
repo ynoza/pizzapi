@@ -17,7 +17,7 @@ class Store(object):
         self.data = data
 
     def __repr__(self):
-        return "Store #{}\nAddress: {}\n\nOpen Now: {}".format(
+        return "Store #{}\nAddress: {}\nOpen Now: {}\n\n".format(
             self.id,
             self.data['AddressDescription'],
             'Yes' if self.data.get('IsOpen', False) else 'No',
