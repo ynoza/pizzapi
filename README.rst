@@ -3,8 +3,7 @@ PizzaBot
 
 Disclaimer
 -----------
-I barely coded anything, and I just wanted to play around, cuz I thought this was cool.
-I made a really easy and simple bot that would ask for the information, just to make it easier for me and maybe others to order pizza.
+This project is highly based off of Jarvis Johnson's API. Included is a bot that would ask for information required to order the pizza, so that its easier for the user to order pizza and enjoy.
 
 Setup
 -----
