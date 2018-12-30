@@ -3,7 +3,7 @@ PizzaBot
 
 Disclaimer
 -----------
-This project is highly based off of Jarvis Johnson's API. Included is a bot that would ask for information required to order the pizza, so that its easier for the user to order pizza and enjoy.
+This project is highly based off of Jarvis Johnson's API. Included is a bot that would ask for information required to order the pizza, so that it is of a more visual form that would enhance the user's experience.
 
 Setup
 -----
